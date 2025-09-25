@@ -1,3 +1,4 @@
+# Given by S.Caruso, edited by Franco Acosta on 09/25/2025
 # VS Code Profile Assignment
 
 **Objective**: Import and activate a VS Code profile specifically designed for
